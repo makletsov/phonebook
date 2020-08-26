@@ -1,0 +1,19 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "The client-server web application that allows to add and delete records and serching among the existing records by name, surname or phone number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makletsov/phonebook.git"
+  },
+  "author": "Vasily Makletsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makletsov/phonebook/issues"
+  },
+  "homepage": "https://github.com/makletsov/phonebook#readme"
+}
